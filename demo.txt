@@ -1,0 +1,10 @@
+Viggle AI Video Generator is a free AI video generator that can convert images to videos using AI motion capture. 
+To access Viggle AI Video Generator, join the beta program through Discord. After joining, complete the questionnaires and agree to the server rules to get started. 
+Viggle AI Video Generator offers features like character mix, character animate, and more for video creation. Users can view examples of what others have created within the Viggle AI Video Generator server. 
+For the 'animate' feature, upload an image, provide a motion prompt, choose a background, and decide on fine-tuning. For the 'mix' feature, upload an image and a video, choose a background, and also decide on fine-tuning. 
+After uploading, the video will be processed and displayed within 2 to 5 minutes.
+
+
+
+
+

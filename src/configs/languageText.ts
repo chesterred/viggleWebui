@@ -24,18 +24,37 @@ export const getIndexLanguageText = async () => {
 export const getQuestionLanguageText = async () => {
   const tIndexQuestion = await getTranslations('indexQuestion');
   return {
+    start: tIndexQuestion('start'),
     h2_1: tIndexQuestion('h2_1'),
     h2_1_p1: tIndexQuestion('h2_1_p1'),
     h2_1_p2: tIndexQuestion('h2_1_p2'),
     h2_1_p3: tIndexQuestion('h2_1_p3'),
     h2_1_p4: tIndexQuestion('h2_1_p4'),
+    h3_1: tIndexQuestion('h3_1'),
+    h4_1: tIndexQuestion('h4_1'),
+    h5_1: tIndexQuestion('h5_1'),
+    h5_1_p1: tIndexQuestion('h5_1_p1'),
+    h5_1_p2: tIndexQuestion('h5_1_p2'),
+    h5_1_p3: tIndexQuestion('h5_1_p3'),
+    h4_2: tIndexQuestion('h4_2'),
+    h5_2: tIndexQuestion('h5_2'),
+    h5_2_p1: tIndexQuestion('h5_2_p1'),
+    h5_2_p2: tIndexQuestion('h5_2_p2'),
+    h5_2_p3: tIndexQuestion('h5_2_p3'),
+    h3_2: tIndexQuestion('h3_2'),
+    h4_3: tIndexQuestion('h4_3'),
+    h5_3: tIndexQuestion('h5_3'),
+    h4_4: tIndexQuestion('h4_4'),
+    h5_4: tIndexQuestion('h5_4'),
     h2_2: tIndexQuestion('h2_2'),
-    h2_2_p1: tIndexQuestion('h2_2_p1'),
-    h2_2_p2: tIndexQuestion('h2_2_p2'),
-    h2_2_p3: tIndexQuestion('h2_2_p3'),
-    h2_2_p4a: tIndexQuestion('h2_2_p4a'),
-    h2_2_p4b: tIndexQuestion('h2_2_p4b'),
-  }
+    h2_3: tIndexQuestion('h2_3'),
+    h2_4: tIndexQuestion('h2_4'),
+    h2_4_p1: tIndexQuestion('h2_4_p1'),
+    h2_5: tIndexQuestion('h2_5'),
+    h2_6: tIndexQuestion('h2_6'),
+    h2_7: tIndexQuestion('h2_7'),
+    h2_8: tIndexQuestion('h2_8'),
+      }
 }
 
 
@@ -79,6 +98,16 @@ export const getPrivacyPolicyLanguageText = async () => {
     h4_5_p: tPrivacyPolicy('h4_5_p'),
     h4_6: tPrivacyPolicy('h4_6'),
     h4_6_p: tPrivacyPolicy('h4_6_p'),
+    p2_h1: tPrivacyPolicy('p2_h1'),
+    p2_1: tPrivacyPolicy('p2_1'),
+    p2_2: tPrivacyPolicy('p2_2'),
+    p2_3: tPrivacyPolicy('p2_3'),
+    p2_4: tPrivacyPolicy('p2_4'),
+    p2_5: tPrivacyPolicy('p2_5'),
+    viggle_discord: tPrivacyPolicy('viggle_discord'),
+    how_title: tPrivacyPolicy('how_title'),
+    how_description: tPrivacyPolicy('how_description'),
+
   }
 }
 

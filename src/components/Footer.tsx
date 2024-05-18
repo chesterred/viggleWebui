@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const navigation = {
   product: [
-    {name: 'SoraWebui', href: 'https://sorawebui.com'}
+    {name: 'ViggleAI.app', href: 'https://viggleai.app'}
   ],
   legal: [
     {name: 'Privacy Policy', href: '/privacy-policy'},
@@ -16,7 +16,7 @@ export default function Footer({
                                  description = ''
                                }) {
   return (
-    <footer className="bg-[#020d24]" aria-labelledby="footer-heading">
+    <footer className="bg-black" aria-labelledby="footer-heading">
       <div id="footer-heading" className="sr-only">
         Footer
       </div>
@@ -29,7 +29,7 @@ export default function Footer({
                 src="/appicon.svg"
                 width={32}
                 height={32}
-                alt="Sorawebui.com"
+                alt="ViggleAI.app"
               />
             </a>
             <p className="text-sm text-gray-300">

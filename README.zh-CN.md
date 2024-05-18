@@ -1,6 +1,6 @@
 # SoraWebui
 SoraWebui 是一个开源项目，允许用户使用 OpenAI 的 Sora 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能。
-👉 [SoraWebui](https://sorawebui.com)
+👉 [SoraWebui](https://ViggleAI.app)
 
 [English](https://github.com/SoraWebui/SoraWebui/blob/main/README.md) | 简体中文 | [日本語](https://github.com/SoraWebui/SoraWebui/blob/main/README.ja-JP.md)
 
@@ -70,7 +70,7 @@ pnpm dev
 ```
 
 ### 4. 在浏览器打开 [http://localhost](http://localhost)
-![success_deploy.jpg](https://sorawebui.com/success_deploy.jpg)
+![success_deploy.jpg](https://ViggleAI.app/success_deploy.jpg)
 
 
 # 重要事项
