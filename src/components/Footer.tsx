@@ -72,12 +72,14 @@ export default function Footer({
                   )}
                 </ul>
               </div>
-              {/* product */}
+              {/* friend */}
               <div>
-                <div className="text-sm font-semibold leading-6 text-white">Friend</div>
+                <div className="text-sm font-semibold leading-6 text-white">Friends</div>
                 <ul role="list" className="mt-6 space-y-4">
-                <a href="https://www.aitoolnet.com/" target="_blank"><img  src="http://www.aitoolnet.com/static/assets/images/logo.svg" alt="aitoolnet.com" /></a>
-
+                  <a href="https://www.aitoolnet.com/" target="_blank"><img src="http://www.aitoolnet.com/static/assets/images/logo.svg" alt="aitoolnet.com" /></a>
+                  <div className="bg-white">               
+                   <a href="https://www.aixploria.com/" target="_blank" rel="noopener"> <img src="https://www.aixploria.com/images/hotlink-ok/aixploria-featured-01.png" alt="Featured on Aixploria"></img> </a>
+                  </div>
 
                 </ul>
               </div>
