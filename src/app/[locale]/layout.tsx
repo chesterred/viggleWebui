@@ -33,6 +33,8 @@ export default async function LocaleLayout({
     <html className="h-full" lang={locale}>
     <head>
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-DC18EZLF41"></script>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4644126769732505"
+     crossOrigin="anonymous"></script>
       <script
         dangerouslySetInnerHTML={{
           __html: `
