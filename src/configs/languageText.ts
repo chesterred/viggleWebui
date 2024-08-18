@@ -24,6 +24,7 @@ export const getIndexLanguageText = async () => {
 export const getQuestionLanguageText = async () => {
   const tIndexQuestion = await getTranslations('indexQuestion');
   return {
+    generate:tIndexQuestion('generate'),
     start: tIndexQuestion('start'),
     h2_1: tIndexQuestion('h2_1'),
     h2_1_p1: tIndexQuestion('h2_1_p1'),
@@ -98,6 +99,7 @@ export const getPrivacyPolicyLanguageText = async () => {
     h4_5_p: tPrivacyPolicy('h4_5_p'),
     h4_6: tPrivacyPolicy('h4_6'),
     h4_6_p: tPrivacyPolicy('h4_6_p'),
+    generate: tPrivacyPolicy('generate'),
     p2_h1: tPrivacyPolicy('p2_h1'),
     p2_1: tPrivacyPolicy('p2_1'),
     p2_2: tPrivacyPolicy('p2_2'),

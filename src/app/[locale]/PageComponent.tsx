@@ -113,6 +113,9 @@ const PageComponent = ({
                   <div className="max-w-[720px] lg:max-w-[842px]">
                     <h1 className="mb-4 text-4xl font-semibold text-black md:text-6xl">{indexLanguageText.h1Text} </h1>
                     <p className="mb-6 max-w-[528px] text-xl text-[#636262] md:mb-10 lg:mb-12">{indexLanguageText.pDescription}</p>
+                    <Link href="https://aitubo.ai/ai-dance-generator/?ref=nzg2ztm" className="mb-6 mr-4 inline-block rounded-xl bg-purple-600 px-8 py-4 text-center font-semibold text-white [box-shadow:rgb(19,_83,_254)_6px_6px] md:mb-10 lg:mb-12">
+                    {questionText.generate}
+                    </Link>
                     <Link href="/how-to-use" className="mb-6 inline-block rounded-xl bg-black px-8 py-4 text-center font-semibold text-white [box-shadow:rgb(19,_83,_254)_6px_6px] md:mb-10 lg:mb-12">{questionText.start}</Link>
 
                   </div>

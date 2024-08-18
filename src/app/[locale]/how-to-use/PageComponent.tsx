@@ -31,6 +31,18 @@ const PageComponent = ({
                   className={"text-blue-600 mt-6 text-4xl flex justify-center items-center font-semibold"}>{privacyPolicyLanguageText.p2_h1}</h1>
 
               </div>
+              <div className='flex items-center justify-center'>
+                <a
+                  href="https://aitubo.ai/ai-dance-generator/?ref=nzg2ztm"                  
+                  className=" w-full mx-auto text-center"
+                >
+                  <button type="button" className="text-gray-900 bg-gradient-to-r from-red-200 via-red-300 to-yellow-200 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-red-100 dark:focus:ring-red-400 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">
+                    {privacyPolicyLanguageText.generate}
+                  </button>
+                </a>
+              </div>
+
+
               <div className="flex justify-start">
                 <p className="text-black">{privacyPolicyLanguageText.p2_1}</p>
               </div>

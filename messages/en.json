@@ -38,6 +38,7 @@
     "h4_5_p": "We will notify users of any updates to this Privacy Policy via email.",
     "h4_6": "6、Contact Information:",
     "h4_6_p": "If you have any questions or concerns regarding our Privacy Policy, please contact us at",
+    "generate" : "AI Dance Generator",
     "p2_h1":"How to use Viggle AI Video Generator",
     "p2_1":"Viggle AI Video Generator is a free AI video generator that can convert images to videos using AI motion capture. ",
     "p2_2":"To access Viggle AI Video Generator, join the beta program through Discord. After joining, complete the questionnaires and agree to the server rules to get started.     ",
@@ -72,7 +73,8 @@
     "h4_8_p": "If you have any questions or concerns regarding our Privacy Policy, please contact us at "
   },
   "indexQuestion": {
-    "start":"Get Started",
+    "generate": "Generate Now",
+    "start":"Guide",
     "h2_1": "How to use Viggle AI video generator in discord",
     "h2_1_p1": "To make the most of the Viggle AI video generator in Discord, simply follow these steps: ",
     "h2_1_p2": "1. Join the Viggle AI Discord group by clicking on the invite link.",
