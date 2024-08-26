@@ -31,7 +31,7 @@ const PageComponent = ({
                   className={"text-blue-600 mt-6 text-4xl flex justify-center items-center font-semibold"}>{privacyPolicyLanguageText.p2_h1}</h1>
 
               </div>
-              <div className='flex items-center justify-center'>
+              {/* <div className='flex items-center justify-center'>
                 <a
                   href="https://aitubo.ai/ai-dance-generator/?ref=nzg2ztm"                  
                   className=" w-full mx-auto text-center"
@@ -40,7 +40,7 @@ const PageComponent = ({
                     {privacyPolicyLanguageText.generate}
                   </button>
                 </a>
-              </div>
+              </div> */}
 
 
               <div className="flex justify-start">
