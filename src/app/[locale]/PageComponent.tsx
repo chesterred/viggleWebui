@@ -8,6 +8,7 @@ import HeadInfo from "~/components/HeadInfo";
 import { useCommonContext } from "~/context/common-context";
 import Link from "next/link";
 import Tiktok from "~/components/Tiktok";
+import Script from 'next/script';
 
 const PageComponent = ({
   locale = '',
@@ -130,7 +131,11 @@ const PageComponent = ({
                   </div>
                 </div>
               </div>
-              <script async="async" data-cfasync="false" src="//pl25003204.profitablecpmrate.com/b734abdcbb6527dd66db1caafb609a6f/invoke.js"></script>
+              <Script
+                strategy="afterInteractive"
+                data-cfasync="false"
+                src="//pl25003204.profitablecpmrate.com/b734abdcbb6527dd66db1caafb609a6f/invoke.js"
+              />
               <div id="container-b734abdcbb6527dd66db1caafb609a6f"></div>
 
             </section>
