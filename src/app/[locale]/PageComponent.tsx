@@ -130,6 +130,7 @@ const PageComponent = ({
                   </div>
                 </div>
               </div>
+              <script async="async" data-cfasync="false" src="//pl25003204.profitablecpmrate.com/b734abdcbb6527dd66db1caafb609a6f/invoke.js"></script>
               <div id="container-b734abdcbb6527dd66db1caafb609a6f"></div>
 
             </section>

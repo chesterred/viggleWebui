@@ -45,7 +45,6 @@ export default async function LocaleLayout({
                   `,
         }}        
       />
-      <script async="async" data-cfasync="false" src="//pl25003204.profitablecpmrate.com/b734abdcbb6527dd66db1caafb609a6f/invoke.js"></script>
     </head>
     <body suppressHydrationWarning={true} className={clsx(inter.className, 'flex h-full flex-col bg-black]')}>
     <CommonProvider>
