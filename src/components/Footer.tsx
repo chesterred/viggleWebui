@@ -80,7 +80,9 @@ export default function Footer({
                   <div className="bg-white">               
                    <a href="https://www.aixploria.com/" target="_blank" rel="noopener"> <img src="https://www.aixploria.com/images/hotlink-ok/aixploria-featured-01.png" alt="Featured on Aixploria"></img> </a>
                   </div>
-
+                  <a href="https://sprunki-incredibox.com/" title="Sprunki Incredibox" target="_blank">Sprunki Incredibox</a>
+                  <a href="https://sprunki-retake.me/" title="Sprunki Retake" target="_blank">Sprunki Retake</a>
+                  
                 </ul>
               </div>
               {/* legal */}
