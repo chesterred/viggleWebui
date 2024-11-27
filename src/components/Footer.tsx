@@ -82,7 +82,9 @@ export default function Footer({
                   </div>
                   <a href="https://sprunki-incredibox.com/" title="Sprunki Incredibox" target="_blank">Sprunki Incredibox</a>
                   <a href="https://sprunki-retake.me/" title="Sprunki Retake" target="_blank">Sprunki Retake</a>
-                  
+                  <a href="https://chillguyanalyser.com/" title="Chill Guy Analyser" target="_blank">Chill Guy Analyser</a>
+
+
                 </ul>
               </div>
               {/* legal */}
